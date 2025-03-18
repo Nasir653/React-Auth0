@@ -24,3 +24,6 @@ This project demonstrates how to implement authentication in a React application
 ```bash
 git clone https://github.com/your-nasir653/React-Auth0
 
+ ## Deployed on Vercel
+
+https://react-auth-qe4qhy4s9-nasir-s-projects.vercel.app/
