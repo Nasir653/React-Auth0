@@ -9,6 +9,16 @@ This project demonstrates how to implement authentication in a React application
 - Fetch user details after authentication
 
 ## 🛠️ Installation
+Create React App
+npm i axios
+npm i react-router-dom
+npm i @auth0/auth0-react
+
+ ## 🛠️ Backend Installation
+ npm i express
+ npm i jwt
+ npm i cors
+
 
 ### 1️⃣ Clone the repository
 ```bash
